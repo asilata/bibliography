@@ -20,3 +20,9 @@ delete.field{mrclass}
 delete.field{coden}
 delete.field{adsnote}
 delete.field{adsurl}
+
+rewrite.rule
+{  journal
+   # "ArXiv e-prints"
+   # "arXiv\:%s(eprint)\ \[%s(primaryclass)\]"
+}
