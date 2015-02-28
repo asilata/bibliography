@@ -26,3 +26,9 @@ rewrite.rule
    # "ArXiv e-prints"
    # "arXiv\:%s(eprint)\ \[%s(primaryclass)\]"
 }
+
+rewrite.rule
+{  journal
+   # "ArXiv Mathematics e-prints"
+   # "arXiv\:%s(eprint)"
+}
