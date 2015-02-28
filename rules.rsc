@@ -1,6 +1,5 @@
 sort = on
 
-key.make.alias = on
 key.format =
 {
 	%s(bibkey)
