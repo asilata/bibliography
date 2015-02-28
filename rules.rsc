@@ -23,12 +23,7 @@ delete.field{adsurl}
 
 rewrite.rule
 {  journal
-   # "ArXiv e-prints"
+   # "ArXiv .* e-prints"
    # "arXiv\:%s(eprint)\ \[%s(primaryclass)\]"
 }
 
-rewrite.rule
-{  journal
-   # "ArXiv Mathematics e-prints"
-   # "arXiv\:%s(eprint)"
-}
