@@ -273,7 +273,7 @@
 }
 
 @Article{	  ara:12,
-  author	= {{Arapura}, D.},
+  author	= {{Arapura}, Donu},
   title		= "{Hodge theory of cyclic covers branched over a union of
 		  hyperplanes}",
   journal	= {arXiv:1201.6403 [math.AG]},
@@ -545,7 +545,7 @@
 }
 
 @Article{	  bel.gib.muk:16,
-  author	= {Belkale, P. and Gibney, A. and Mukhopadhyay, S.},
+  author	= {Belkale, Prakash and Gibney, Angela and Mukhopadhyay, Swarnava},
   title		= {Nonvanishing of conformal blocks divisors on {$\overline
 		  M_{0,n}$}},
   journal	= {Transform. Groups},
@@ -2971,7 +2971,11 @@
 }
 
 @Article{	  lan.zvo:07,
+<<<<<<< HEAD
+  author	= {Lando, S. K. and Zvonkine, Dmitri},
+=======
   author	= {Lando, Sergei K. and Zvonkine, Dmitri},
+>>>>>>> 38d82de6ff0a2e5e8c55e4edae1a681d1ce3952d
   title		= {Counting ramified converings and intersection theory on
 		  spaces of rational functions. {I}. {C}ohomology of
 		  {H}urwitz spaces},
