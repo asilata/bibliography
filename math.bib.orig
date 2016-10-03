@@ -226,6 +226,21 @@
   url		= {http://dx.doi.org/10.1006/jnth.2000.2632}
 }
 
+@Article{	  and.tym:10,
+  author	= {Anderson, Dave and Tymoczko, Julianna},
+  title		= {Schubert polynomials and classes of {H}essenberg
+		  varieties},
+  journal	= {J. Algebra},
+  fjournal	= {Journal of Algebra},
+  volume	= {323},
+  year		= {2010},
+  number	= {10},
+  pages		= {2605--2623},
+  issn		= {0021-8693},
+  doi		= {10.1016/j.jalgebra.2010.03.001},
+  url		= {http://dx.doi.org/10.1016/j.jalgebra.2010.03.001}
+}
+
 @Article{	  aok:05,
   author	= {{Aoki}, Masao},
   eprint	= {arXiv:math/0503358},
@@ -3423,20 +3438,7 @@
   url		= {http://dx.doi.org.ezproxy.cul.columbia.edu/10.4007/annals.2007.165.843}
 }
 
-@InCollection{	  mal:83,
-  author	= {Malgrange, B.},
-  title		= {Polyn\^omes de {B}ernstein-{S}ato et cohomologie
-		  \'evanescente},
-  booktitle	= {Analysis and topology on singular spaces, {II}, {III}
-		  ({L}uminy, 1981)},
-  series	= {Ast\'erisque},
-  volume	= {101},
-  pages		= {243--267},
-  publisher	= {Soc. Math. France, Paris},
-  year		= {1983}
-}
-
-
+<<<<<<< HEAD
 @Article{	  man:09,
   author	= {{Manon}, C.~A.},
   title		= "{The Algebra of Conformal Blocks}",
@@ -3475,6 +3477,19 @@
 		  Representation Theory, 14D20, 05E10},
   year		= 2012,
   month		= jun
+=======
+@InCollection{	  mal:83,
+  author	= {Malgrange, B.},
+  title		= {Polyn\^omes de {B}ernstein-{S}ato et cohomologie
+		  \'evanescente},
+  booktitle	= {Analysis and topology on singular spaces, {II}, {III}
+		  ({L}uminy, 1981)},
+  series	= {Ast\'erisque},
+  volume	= {101},
+  pages		= {243--267},
+  publisher	= {Soc. Math. France, Paris},
+  year		= {1983}
+>>>>>>> 38a0a5d0e731d9a5255fb218d26d3fdd6a91ab04
 }
 
 @Book{		  man:86,
@@ -4531,6 +4546,20 @@
   pages		= {459--566},
   publisher	= {Academic Press, Boston, MA},
   year		= {1989}
+}
+
+@Article{	  tym:07,
+  author	= {Tymoczko, Julianna S.},
+  title		= {Paving {H}essenberg varieties by affines},
+  journal	= {Selecta Math. (N.S.)},
+  fjournal	= {Selecta Mathematica. New Series},
+  volume	= {13},
+  year		= {2007},
+  number	= {2},
+  pages		= {353--367},
+  issn		= {1022-1824},
+  doi		= {10.1007/s00029-007-0038-4},
+  url		= {http://dx.doi.org/10.1007/s00029-007-0038-4}
 }
 
 @Article{	  tyo:07,
