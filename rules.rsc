@@ -1,4 +1,5 @@
 sort = on
+check.double.delete = on
 
 key.format =
 {
