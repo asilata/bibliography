@@ -128,6 +128,7 @@
     "cor.har:88"
     "cor:07"
     "cor:76"
+    "cra.smi:08"
     "cue.deo:16"
     "de-con.pro:95"
     "de-mar.pro.sha:92"
